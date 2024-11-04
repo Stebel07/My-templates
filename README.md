@@ -1,2 +1,1 @@
-# Templates-for-EGE
-Шаблоны для ЕГЭ
+# My-templates
